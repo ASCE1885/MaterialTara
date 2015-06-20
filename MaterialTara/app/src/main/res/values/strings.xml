@@ -11,4 +11,15 @@
     <string name="action_example">Example action</string>
 
     <string name="action_settings">Settings</string>
+
+    <string name="tara">皇冠团</string>
+    <string name="baolan">全宝蓝</string>
+    <string name="juli">李居丽</string>
+    <string name="suyan">朴素妍</string>
+    <string name="enjing">咸恩静</string>
+    <string name="xiaomin">朴孝敏</string>
+    <string name="zhiyan">朴智妍</string>
+    <string name="yalin">李雅琳</string>
+    <string name="daini">金岱妮</string>
+    <string name="huaying">刘花英</string>
 </resources>

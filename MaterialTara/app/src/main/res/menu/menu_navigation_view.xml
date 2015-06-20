@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/drawer_tara"
+            android:checked="true"
+            android:icon="@drawable/tara"
+            android:title="@string/tara" />
+
+        <item android:id="@+id/drawer_baolan"
+            android:icon="@drawable/baolan"
+            android:title="@string/baolan"/>
+
+        <item android:id="@+id/drawer_juli"
+            android:icon="@drawable/juli"
+            android:title="@string/juli"/>
+
+        <item android:id="@+id/drawer_suyan"
+            android:icon="@drawable/suyan"
+            android:title="@string/suyan"/>
+
+        <item android:id="@+id/drawer_enjing"
+            android:icon="@drawable/enjing"
+            android:title="@string/enjing"/>
+
+        <item android:id="@+id/drawer_xiaomin"
+            android:icon="@drawable/xiaomin"
+            android:title="@string/xiaomin"/>
+
+        <item android:id="@+id/drawer_zhiyan"
+            android:icon="@drawable/zhiyan"
+            android:title="@string/zhiyan"/>
+
+        <item android:id="@+id/drawer_yalin"
+            android:icon="@drawable/yalin"
+            android:title="@string/yalin"/>
+
+        <item android:id="@+id/drawer_daini"
+            android:icon="@drawable/daini"
+            android:title="@string/daini"/>
+
+        <item android:id="@+id/drawer_huaying"
+            android:icon="@drawable/huaying"
+            android:title="@string/huaying"/>
+    </group>
+</menu>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
